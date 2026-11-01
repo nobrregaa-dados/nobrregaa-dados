@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+  <img src=".github/banner_joao_nobrega.gif" />
 </p>
 </h3>
 
