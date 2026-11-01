@@ -7,8 +7,7 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
-Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
+Atualmente sou estudante de Ciência de Dados e Machine Learning. Tenho grande interesse em dados e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
 
 
 #
